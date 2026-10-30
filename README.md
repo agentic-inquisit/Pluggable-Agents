@@ -1,4 +1,4 @@
-# Pluggable Agents
+#  Pluggable Agents: Swap any backend — vector store, graph store, LLM
 
 A LangGraph-orchestrated agentic RAG + GraphRAG pipeline where every backend —
 LLM provider, vector store, graph store — is a swap-in component, not a fixed

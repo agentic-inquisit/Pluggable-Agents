@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .env
 ROADMAP.md
+ANIME_AGENT_INFRA.md
+ANIME_AGENT_PIPELINE_PLAN.md

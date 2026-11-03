@@ -19,8 +19,8 @@ Environment: Windows 10/11, Python 3.10+, installed via `install.bat`.
 - **Expected:** script reaches `=== Setup complete ===` with no `Write-Error`
   lines; smoke test prints real window titles from the desktop under
   "Open windows:".
-- **Status:** Not yet run — pending
-- **Date:** —
+- **Status:** Pass
+- **Date:** 2026-11-03
 - **Evidence:** —
 
 ### P1-02 — `list_open_windows()` sanity
